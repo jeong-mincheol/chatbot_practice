@@ -5,8 +5,8 @@
 !my-vue-app/
 !my-vue-app/**
 
-!project_practice/
-!project_practice/**
+!backend/
+!backend/**
 
 # 파일안에서도 제외할 목록
 __pycache__/
