@@ -3,11 +3,10 @@
 
 # 제외할 폴더 제거 (두 폴더만 포함)
 !my-vue-app/
-!project_practice/
+!my-vue-app/**
 
-# my-vue-app 내부 파일 추적 허용
-my-vue-app/*
-project_practice/*
+!project_practice/
+!project_practice/**
 
 # 파일안에서도 제외할 목록
 __pycache__/
